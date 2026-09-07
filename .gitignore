@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+
+# Environment variables and secrets
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+
+# Generated reports
+reports/git rm --cached backend/.env
